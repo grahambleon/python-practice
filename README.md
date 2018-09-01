@@ -1,2 +1,2 @@
 # python-practice
-practice for python syntax
+Practicing python syntax with simple challenges.
